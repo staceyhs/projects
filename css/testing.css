@@ -1,0 +1,27 @@
+h1 {
+  color: #666666;
+  text-align: center;
+  font-family: trebuchet;
+}
+
+h2 {
+  color: #a6a6a6;
+  text-align: center;
+  font-family: trebuchet;
+  font-style: italic;
+}
+
+h3 {
+  color: #666666;
+  font-family: trebuchet;
+}
+
+p {
+  font-family: trebuchet;
+}
+
+img.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
